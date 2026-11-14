@@ -5,7 +5,7 @@ Instaladores do **Safelayer Creative**, Editor de imagens, vídeos e motion da *
 
 Este repositório só guarda as versões publicadas (em **Releases**).
 
-## Downloader
+## Downloaders
 
 Na página de [Releases](https://github.com/myangdae/effects-dae-atualizacoes/releases/latest):
 - `effects-dae-<versão>-instalador.exe` - instala no Windows e **se atualiza sozinho**;
