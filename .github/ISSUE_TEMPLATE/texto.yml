@@ -1,0 +1,33 @@
+name: Texto ou tradução
+description: Erro de escrita, tradução estranha ou texto faltando
+labels: [texto]
+body:
+  - type: dropdown
+    id: lingua
+    attributes:
+      label: Língua do app
+      options: [Português, Inglês, Espanhol]
+    validations:
+      required: true
+  - type: dropdown
+    id: software
+    attributes:
+      label: Software
+      options: [safelayer imagem, safelayer vídeo, safelayer motion, safelayer marca, Tela inicial / instalação]
+    validations:
+      required: true
+  - type: input
+    id: atual
+    attributes:
+      label: Texto que está no app
+    validations:
+      required: true
+  - type: input
+    id: sugerido
+    attributes:
+      label: Texto que você sugere
+  - type: textarea
+    id: print
+    attributes:
+      label: Print da tela
+      description: Arraste para cá

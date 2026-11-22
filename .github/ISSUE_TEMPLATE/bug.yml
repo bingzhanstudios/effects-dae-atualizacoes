@@ -1,0 +1,57 @@
+name: Relato de bug
+description: Algo não funcionou como deveria
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por reportar! Antes, procure nas issues (abertas e fechadas) se já existe uma igual.
+        **Falha de segurança não vai aqui:** use a aba Security.
+  - type: input
+    id: versao
+    attributes:
+      label: Versão do safelayer editor
+      description: Configurações → Sobre
+      placeholder: "1.0.56"
+    validations:
+      required: true
+  - type: dropdown
+    id: software
+    attributes:
+      label: Software
+      options: [safelayer imagem, safelayer vídeo, safelayer motion, safelayer marca, Tela inicial / instalação]
+    validations:
+      required: true
+  - type: dropdown
+    id: distribuicao
+    attributes:
+      label: Distribuição
+      options: [Instalador, Portátil]
+    validations:
+      required: true
+  - type: input
+    id: sistema
+    attributes:
+      label: Windows
+      placeholder: "Windows 11 23H2"
+  - type: textarea
+    id: passos
+    attributes:
+      label: Passo a passo
+      placeholder: |
+        1. Abri o safelayer vídeo
+        2. Importei um MP4 de 4K
+        3. Cliquei em Exportar vídeo
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: O que você esperava e o que aconteceu
+    validations:
+      required: true
+  - type: textarea
+    id: anexos
+    attributes:
+      label: Print ou vídeo
+      description: Arraste para cá, se tiver

@@ -1,0 +1,29 @@
+name: Sugestão
+description: Uma ideia para melhorar o safelayer editor
+labels: [sugestão]
+body:
+  - type: markdown
+    attributes:
+      value: Procure antes se alguém já sugeriu; se sim, deixe um 👍 e comente lá.
+  - type: dropdown
+    id: software
+    attributes:
+      label: Software
+      options: [safelayer imagem, safelayer vídeo, safelayer motion, safelayer marca, Todos]
+    validations:
+      required: true
+  - type: textarea
+    id: objetivo
+    attributes:
+      label: O que você estava tentando fazer?
+      description: Conte a tarefa, não só a função. Ex.: "queria exportar o mesmo vídeo em 9:16 e 16:9 sem refazer"
+    validations:
+      required: true
+  - type: textarea
+    id: ideia
+    attributes:
+      label: Como você imagina que poderia ser
+  - type: textarea
+    id: hoje
+    attributes:
+      label: Como você faz isso hoje
