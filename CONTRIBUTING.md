@@ -9,7 +9,7 @@ Abaixo está como reportar problemas, sugerir funções e ajudar com textos e tr
 
 ## Trabalhamos às claras
 
-A equipe acompanha este repositório de perto. Quando achamos um bug, abrimos uma issue aqui. Quando temos uma ideia nova, ela vira uma sugestão aqui. Quando uma correção sai, ela aparece nas [notas de versão](https://github.com/myangdae/effects-dae-atualizacoes/releases) e avisamos na issue.
+A equipe acompanha este repositório de perto. Quando achamos um bug, abrimos uma issue aqui. Quando temos uma ideia nova, ela vira uma sugestão aqui. Quando uma correção sai, ela aparece nas [notas de versão](https://github.com/bingzhanstudios/effects-dae-atualizacoes/releases) e avisamos na issue.
 
 Fazemos assim para que você veja que os relatos da comunidade passam pelo mesmo processo que os nossos, e para que fique registrado o "porquê" das coisas: quem chega depois entende por que o app funciona do jeito que funciona.
 
@@ -54,7 +54,7 @@ Se nada descreve o seu caso, ótimo: abra uma issue nova.
 - Teve uma ótima ideia? Abra uma sugestão.
 - Achou uma issue igual à sua? Ótimo: reaja com 👍 e acrescente o que for novo (passos, prints, versão).
 
-Ao clicar em **[New issue](https://github.com/myangdae/effects-dae-atualizacoes/issues/new/choose)**, escolha o tipo mais perto do que você quer:
+Ao clicar em **[New issue](https://github.com/bingzhanstudios/effects-dae-atualizacoes/issues/new/choose)**, escolha o tipo mais perto do que você quer:
 
 | Tipo | Para quê |
 |---|---|
@@ -126,6 +126,6 @@ Relatos inventados ou que não dão para reproduzir podem ser fechados.
 
 ## Obrigado
 
-Obrigado desde já pela ajuda! Cada relato bem feito vira uma versão melhor. Agora, que tal ver o [que mudou na última versão](https://github.com/myangdae/effects-dae-atualizacoes/releases/latest)? 😄
+Obrigado desde já pela ajuda! Cada relato bem feito vira uma versão melhor. Agora, que tal ver o [que mudou na última versão](https://github.com/bingzhanstudios/effects-dae-atualizacoes/releases/latest)? 😄
 
 Ao participar, você concorda com o nosso [Código de conduta](CODE_OF_CONDUCT.md).

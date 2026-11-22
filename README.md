@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/myangdae/effects-dae-atualizacoes/releases/latest"><img alt="Versão" src="https://img.shields.io/github/v/release/myangdae/effects-dae-atualizacoes?label=vers%C3%A3o&style=flat-square&color=c6ff00&labelColor=0b0b0c"></a>
-  <a href="https://github.com/myangdae/effects-dae-atualizacoes/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/myangdae/effects-dae-atualizacoes/total?label=downloads&style=flat-square&labelColor=0b0b0c"></a>
+  <a href="https://github.com/bingzhanstudios/effects-dae-atualizacoes/releases/latest"><img alt="Versão" src="https://img.shields.io/github/v/release/bingzhanstudios/effects-dae-atualizacoes?label=vers%C3%A3o&style=flat-square&color=c6ff00&labelColor=0b0b0c"></a>
+  <a href="https://github.com/bingzhanstudios/effects-dae-atualizacoes/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/bingzhanstudios/effects-dae-atualizacoes/total?label=downloads&style=flat-square&labelColor=0b0b0c"></a>
   <img alt="Windows 10 e 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-informational?style=flat-square&labelColor=0b0b0c">
   <img alt="Gratuito" src="https://img.shields.io/badge/pre%C3%A7o-gratuito-8b5cf6?style=flat-square&labelColor=0b0b0c">
 </p>
@@ -53,7 +53,7 @@ O app instalado lê as versões publicadas aqui e se atualiza sozinho. O código
 
 Baixe o instalador e abra:
 
-**[⬇ Baixar o safelayer editor para Windows](https://github.com/myangdae/effects-dae-atualizacoes/releases/latest/download/safelayer-editor-instalador.exe)**
+**[⬇ Baixar o safelayer editor para Windows](https://github.com/bingzhanstudios/effects-dae-atualizacoes/releases/latest/download/safelayer-editor-instalador.exe)**
 
 Ele instala só para o seu usuário (não pede administrador), cria o atalho no menu Iniciar e **se atualiza sozinho** a cada versão nova. É o jeito que preferimos.
 
@@ -61,21 +61,21 @@ Ele instala só para o seu usuário (não pede administrador), cria o atalho no 
 
 #### Portátil
 
-Para rodar sem instalar (pendrive, computador sem permissão para instalar), baixe o `safelayer-editor-<versão>-portatil.exe` na página da [versão mais nova](https://github.com/myangdae/effects-dae-atualizacoes/releases/latest), em **Assets**, e abra.
+Para rodar sem instalar (pendrive, computador sem permissão para instalar), baixe o `safelayer-editor-<versão>-portatil.exe` na página da [versão mais nova](https://github.com/bingzhanstudios/effects-dae-atualizacoes/releases/latest), em **Assets**, e abra.
 
 > [!IMPORTANT]
 > O portátil **não se atualiza sozinho**: ele avisa quando sai uma versão nova e leva você à página de download.
 
 #### Uma versão específica
 
-Todas as versões ficam em [Releases](https://github.com/myangdae/effects-dae-atualizacoes/releases). Abra a versão e baixe em **Assets**.
+Todas as versões ficam em [Releases](https://github.com/bingzhanstudios/effects-dae-atualizacoes/releases). Abra a versão e baixe em **Assets**.
 
 ### Distribuições
 
 | Distribuição | Sistema | Se atualiza sozinho | Link |
 |---|---|---|---|
-| Instalador | Windows 10 e 11, x64 | Sim | [Baixar](https://github.com/myangdae/effects-dae-atualizacoes/releases/latest/download/safelayer-editor-instalador.exe) |
-| Portátil | Windows 10 e 11, x64 | Não (só avisa) | [Página da versão](https://github.com/myangdae/effects-dae-atualizacoes/releases/latest) |
+| Instalador | Windows 10 e 11, x64 | Sim | [Baixar](https://github.com/bingzhanstudios/effects-dae-atualizacoes/releases/latest/download/safelayer-editor-instalador.exe) |
+| Portátil | Windows 10 e 11, x64 | Não (só avisa) | [Página da versão](https://github.com/bingzhanstudios/effects-dae-atualizacoes/releases/latest) |
 
 > [!TIP]
 > O link do instalador acima nunca muda: ele sempre baixa a versão mais nova. Pode mandar para quem ainda não tem o app.
@@ -98,7 +98,7 @@ O app está em português, inglês e espanhol.
 
 A versão instalada procura atualização **ao abrir e a cada 6 horas**, baixa em segundo plano e avisa quando está pronta. Dá para desligar em **Configurações → Atualizações → Procurar sozinho**. A busca fala só com o GitHub, por HTTPS, e não envia nada sobre você.
 
-Cada versão traz as notas do que mudou, na página de [Releases](https://github.com/myangdae/effects-dae-atualizacoes/releases) e dentro do app.
+Cada versão traz as notas do que mudou, na página de [Releases](https://github.com/bingzhanstudios/effects-dae-atualizacoes/releases) e dentro do app.
 
 ---
 
@@ -120,14 +120,14 @@ Cada versão traz as notas do que mudou, na página de [Releases](https://github
 
 **Causa:** o portátil não se atualiza sozinho.
 
-**Solução:** baixe a versão nova na página de [Releases](https://github.com/myangdae/effects-dae-atualizacoes/releases/latest) ou passe a usar o [instalador](#instalador-recomendado).
+**Solução:** baixe a versão nova na página de [Releases](https://github.com/bingzhanstudios/effects-dae-atualizacoes/releases/latest) ou passe a usar o [instalador](#instalador-recomendado).
 
 ---
 
 ## Recursos
 
-- [Notas de versão](https://github.com/myangdae/effects-dae-atualizacoes/releases): o que mudou em cada versão.
-- [Abrir um relato de bug](https://github.com/myangdae/effects-dae-atualizacoes/issues/new/choose).
+- [Notas de versão](https://github.com/bingzhanstudios/effects-dae-atualizacoes/releases): o que mudou em cada versão.
+- [Abrir um relato de bug](https://github.com/bingzhanstudios/effects-dae-atualizacoes/issues/new/choose).
 
 ---
 
@@ -139,7 +139,7 @@ Ficamos felizes com cada relato e sugestão: é deles que sai cada versão.
 
 ## Falar com a equipe
 
-O jeito mais fácil de falar com a equipe é pelas [issues](https://github.com/myangdae/effects-dae-atualizacoes/issues).
+O jeito mais fácil de falar com a equipe é pelas [issues](https://github.com/bingzhanstudios/effects-dae-atualizacoes/issues).
 
 Abra relatos de bug e sugestões por lá, mas **procure antes se já existe uma issue igual, aberta ou fechada**.
 

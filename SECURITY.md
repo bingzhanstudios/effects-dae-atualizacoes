@@ -8,7 +8,7 @@ Se você acha que encontrou uma falha de segurança, conte para nós como descri
 
 **Não reporte falhas de segurança em issues públicas.**
 
-Use o reporte privado do GitHub: na aba **[Security](https://github.com/myangdae/effects-dae-atualizacoes/security)** deste repositório, clique em **Report a vulnerability**. Só a equipe vê o seu relato.
+Use o reporte privado do GitHub: na aba **[Security](https://github.com/bingzhanstudios/effects-dae-atualizacoes/security)** deste repositório, clique em **Report a vulnerability**. Só a equipe vê o seu relato.
 
 Respondemos em até **3 dias úteis**. Se não tiver resposta nesse prazo, comente no mesmo relato para confirmarmos que ele chegou.
 
